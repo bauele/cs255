@@ -1,5 +1,5 @@
-# cs255
-Repository for my CS-255 class
+# CS-255 System Analysis and Design
+Project demonstrating ability to analyze user requirements and design functional software to meet user needs.
 
 
 ### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
